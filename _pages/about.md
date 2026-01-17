@@ -63,5 +63,5 @@ I am a master's student in Health Policy and Management at the [School of Public
 * 班级心理委员 (2023 - 2025)
 
 
-You can find my CV here: [Xingyu Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-[Email](mailto:xxx@stu.pku.edu.cn) 
+You can find my CV here: [Xingyu Liu's Curriculum Vitae](../assets/﻿Curriculum_Vitae.pdf).
+[Email](1632577672@qq.com) 
