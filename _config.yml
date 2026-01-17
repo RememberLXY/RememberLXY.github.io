@@ -16,14 +16,14 @@ description              : &description "卫生政策与管理"   # Update this 
 url                      : https:/rememberlxy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "RememberLXY/RememberLXY.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilelxy.png"
+  avatar           : "../images/profilelxy.png"
   name             : "刘星宇"
   pronouns         : 
   bio              : "北京大学公共卫生学院卫生政策与管理专业的硕士研究生"
