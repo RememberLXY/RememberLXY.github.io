@@ -21,10 +21,10 @@ I am a master's student in Health Policy and Management at the [School of Public
 
 ## 研究兴趣 
 
-* 健康信息化与数据科学 (Health Informatics & Data Science)
-* 卫生政策评估与分析 (Health Policy Evaluation & Analysis)
-* 数字健康工具与应用 (Digital Health Tools & Applications)
-* 公共卫生系统改善 (Public Health System Improvement)
+* 健康信息化与数据科学 
+* 卫生政策评估与分析
+* 数字健康工具与应用
+* 公共卫生政策
 
 项目经验
 ======
